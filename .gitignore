@@ -1,0 +1,15 @@
+# Sensitive evidence
+**/evidence/*
+
+# Credentials / secrets
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
